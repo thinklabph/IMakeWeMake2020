@@ -11,7 +11,7 @@ void setup() {
   pinMode(S3, OUTPUT);
   pinMode(sensorOut, INPUT);
  
-  digitalWrite(S0,LOW);
+  digitalWrite(S0,HIGH);
   digitalWrite(S1,HIGH);
   
   Serial.begin(9600);
