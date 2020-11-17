@@ -1,0 +1,47 @@
+
+# ls - lists the files and folders of the current directory.
+ls 
+
+# cd [Folder Name] - change directory to the folder
+cd Desktop
+
+# cd ~ - change directory to the users home directory
+cd ~
+
+# touch - creates a new blank file
+touch myfile.txt
+
+# rm [Filename] - deletes the file
+rm myfile.txt
+
+# nano or nano [Filename] - opens the nano Linux shell editor
+nano myfile.txt
+
+# cp [Source Filename] [Destination Filename] - copies the file
+cp myfile.txt newfile.txt
+
+# mkdir [Folder Name] - makes directory or creates a new folder
+mkdir myfolder
+mkdir myfolder2 myfolder3       # Creates 2 folders at the same time
+
+# rm [Filename] - Removes or Deletes a file
+rm myfile.txt
+
+# rm -r [folder] - Removes the folder and all files in it.
+rm -r myfolder
+
+# rmdir [Folder name] - Removes or Deletes a folder
+rmdir myfolder2
+
+# mv [Source File] [Destination Folder] - Moves the file to the destination folder
+my myfile.txt /home/pi/Desktop/myfolder3
+
+# ifconfig - Gets information of the network interface configuration
+ifconfig
+
+# ping [web domain] - used to test the reachability of a host on an Internet Protocol network
+ping www.google.com
+
+# man [Command] - opens up the manual or information about the command
+man ls
+man cp
