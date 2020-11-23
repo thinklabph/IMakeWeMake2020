@@ -5,6 +5,7 @@ Contents in this site are the codes for ImakeWeMake 2020 training videos. If you
 Imake.wemake is a project of the Science Education Institute of the Department of Science and Technology geared towards unleashing the creativity of young Filipinos to enable them to discover their potentials and learn the process of using innovation to achieve a particular purpose that will benefit their community of interest. It packs in competencies such as project proposal making, communication skills, critical and analytical thinking, engineering and technical skills and the value of risk and failure analysis. More than anything, it is founded on the values associated with creating, collaborating and innovating to come up with a product and application that will solve a particular problem in a community
 
 [Official ImakeWeMake Facebook Page](https://www.facebook.com/imake.wemake/)
+
 [Official ThinkLab Facebook Page](https://www.facebook.com/thinklab.ph)
 
 ### Notice
